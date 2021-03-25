@@ -1,19 +1,19 @@
-﻿<%@ Page Title="" Language="C#"  MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="PersonalInfo.aspx.cs" Inherits="session_one.PersonalInfo" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="PersonalInfo.aspx.cs" Inherits="session_one.PersonalInfo" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <asp:Label ID="lblWelcome" runat="server"></asp:Label>
-    
+
     <table id="tbl" runat="server" style="padding:10px; height: 60px;" class="nav-justified">
         <tr>
             <td style="height:49px">
                 <asp:Label ID="lblFirstName" runat="server" Text="First Name"></asp:Label>
             </td>
-            <td style="height: 49px">
+            <td style="height:49px">
                 <asp:TextBox ID="txtFirstName" runat="server" style="margin-left: 0" Height="48px"></asp:TextBox>
             </td>
         </tr>
         <tr>
             <td>
-                <asp:Label  ID="lblLastName" runat="server" Text="Last Name"></asp:Label>
+                <asp:Label ID="lblLastName" runat="server" Text="Last Name"></asp:Label>
             </td>
             <td>
                 <asp:TextBox ID="txtLastName" runat="server" Height="71px"></asp:TextBox>

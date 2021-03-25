@@ -17,14 +17,11 @@ namespace session_one
             }
         }
 
-
         protected void BtnSubmit_Click(object sender, EventArgs e)
         {
             lblWelcome.Text = "";
             string firstName = txtFirstName.Text;
             string lastName = txtLastName.Text;
-
-            
 
             lblResult.Text = string.Format("The personal info {0} , {1}", firstName, lastName);
 
@@ -32,7 +29,6 @@ namespace session_one
 
             BtnSubmit.Text = "SUBMITTED";
             tbl.Style["background-color"] = "red";
-
 
             //tbl.BgColor = "red";
             //change the color of a reset button from the server
