@@ -72,3 +72,7 @@ C:\Users\patri\source\asp-repos\session-one\validation\obj\Debug\validation.cspr
 C:\Users\patri\source\asp-repos\session-one\validation\obj\Debug\validation.csproj.CopyComplete
 C:\Users\patri\source\asp-repos\session-one\validation\obj\Debug\validation.dll
 C:\Users\patri\source\asp-repos\session-one\validation\obj\Debug\validation.pdb
+C:\Users\patri\source\asp-repos\session-one\validation\bin\EntityFramework.dll
+C:\Users\patri\source\asp-repos\session-one\validation\bin\EntityFramework.SqlServer.dll
+C:\Users\patri\source\asp-repos\session-one\validation\bin\EntityFramework.xml
+C:\Users\patri\source\asp-repos\session-one\validation\bin\EntityFramework.SqlServer.xml

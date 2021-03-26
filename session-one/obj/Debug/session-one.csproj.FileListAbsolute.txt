@@ -72,3 +72,7 @@ C:\Users\patri\source\asp-repos\session-one\session-one\obj\Debug\session-one.cs
 C:\Users\patri\source\asp-repos\session-one\session-one\obj\Debug\session-one.csproj.CopyComplete
 C:\Users\patri\source\asp-repos\session-one\session-one\obj\Debug\session-one.dll
 C:\Users\patri\source\asp-repos\session-one\session-one\obj\Debug\session-one.pdb
+C:\Users\patri\source\asp-repos\session-one\session-one\bin\EntityFramework.dll
+C:\Users\patri\source\asp-repos\session-one\session-one\bin\EntityFramework.SqlServer.dll
+C:\Users\patri\source\asp-repos\session-one\session-one\bin\EntityFramework.xml
+C:\Users\patri\source\asp-repos\session-one\session-one\bin\EntityFramework.SqlServer.xml
